@@ -2,7 +2,7 @@
 ### Version 1.0                                 ###
 ### Author: Alexander Holmeset                  ###
 ### Email: alexander.holmeset@gmail.com         ###
-### Twitter: twitter.com/alxholmeset            ###
+### Twitter: twitter.com/alexholmeset            ###
 ### Blog: alexholmeset.blog                     ###
 
 
